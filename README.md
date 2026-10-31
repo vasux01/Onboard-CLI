@@ -12,7 +12,11 @@ Navigating a massive open-source project for the first time is overwhelming. Rep
 * **AI Engine:** Local Gemma 2 2B (via Ollama)
 * **Privacy:** 100% offline processing. No cloud APIs, no exposed secrets, and zero codebase leakage.
 
-## ⚙️ Setup & Installation
-1. Install [Ollama](https://ollama.com/) and download the open-weight model:
-   ```bash
-   ollama run gemma2:2b
+## 🚀 Installation & Setup 
+
+Since RepoPhantom is a 100% local, offline-first application, it requires both a Python environment and the Ollama AI engine to run securely on your machine.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/vasux01/Onboard-CLI.git](https://github.com/vasux01/Onboard-CLI.git)
+cd Onboard-CLI
